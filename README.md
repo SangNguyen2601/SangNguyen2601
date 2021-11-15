@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SangNguyen2601
 - 👀 
 - 🌱 Currently, I'm working for Harvey Nash
-- 💞️ And collaborate on Moodle
+- ✨ And collaborate on Moodle
 - 📫 nasabp98@gmail.com
 
 <!---
